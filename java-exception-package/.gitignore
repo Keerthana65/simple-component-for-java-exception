@@ -34,6 +34,7 @@ build/
 .project
 .settings/
 target/
+bin/
 
 # Maven
 log/
